@@ -1,0 +1,64 @@
+/* General Styles */
+
+body {
+    font-size: 24px;
+}
+
+h1
+h2
+{
+    font-family: 'Source Code Pro', monospace;
+}
+
+h3
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/****** GRID ******/
+
+.full-width {
+    margin: 0 auto;
+    overflow: auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    margin: 0px 0px;
+    width: 600px;
+}
+
+.third-width {
+    float: left;
+    width: 400px;
+}
+
+/* Heading Styles */
+
+header{
+    height: 800px;
+}
+
+/* Portfolio Styles */
+
+#portfolio {
+    height: 1550px;
+}
+
+#portfolio img {
+    height: 350px;
+    width: 550px;
+}
+
+/* About Styles */
+
+#about{
+    height: 550px;
+}
+
+/* Contact Styles */
+
+#contact {
+    height: 400px;
+}
